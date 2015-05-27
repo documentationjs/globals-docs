@@ -446,16 +446,16 @@
     "XPathResult": "https://developer.mozilla.org/en-US/docs/XPathResult"
   },
   "worker": {
-    "importScripts": true,
-    "postMessage": true,
-    "self": true
+    "importScripts": "https://developer.mozilla.org/en-US/docs/Web/API/WorkerGlobalScope/importScripts",
+    "postMessage": "https://developer.mozilla.org/en-US/docs/Web/API/MessagePort/postMessage",
+    "self": "https://developer.mozilla.org/en-US/docs/Web/API/WorkerGlobalScope/self"
   },
   "node": {
     "__dirname": "https://nodejs.org/api/globals.html#globals_dirname",
     "__filename": "https://nodejs.org/api/globals.html#globals_filename",
     "arguments": false,
     "Buffer": "https://nodejs.org/api/buffer.html",
-    "clearImmediate": false,
+    "clearImmediate": "https://nodejs.org/api/timers.html#timers_clearimmediate_immediateobject",
     "clearInterval": "https://nodejs.org/api/globals.html#globals_clearinterval_t",
     "clearTimeout": "https://nodejs.org/api/globals.html#globals_cleartimeout_t",
     "console": "https://nodejs.org/api/console.html",
@@ -465,8 +465,8 @@
     "global": "https://nodejs.org/api/globals.html#globals_global",
     "module": "https://nodejs.org/api/modules.html",
     "process": "https://nodejs.org/api/process.html",
-    "require": false,
-    "setImmediate": false,
+    "require": "https://nodejs.org/api/globals.html#globals_require",
+    "setImmediate": "https://nodejs.org/api/timers.html#timers_setimmediate_callback_arg",
     "setInterval": "https://nodejs.org/api/globals.html#globals_setinterval_cb_ms",
     "setTimeout": "https://nodejs.org/api/globals.html#globals_settimeout_cb_ms"
   }
