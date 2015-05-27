@@ -1,0 +1,27 @@
+{
+  "name": "globals-docs",
+  "version": "1.0.0",
+  "description": "documentation links for all node and browser globals",
+  "main": "index.js",
+  "dependencies": {
+    "tape": "^4.0.0",
+    "globals": "^6.4.1",
+    "got": "^3.2.0",
+    "queue-async": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "documentation",
+    "links",
+    "mdc",
+    "mozilla",
+    "developer",
+    "center",
+    "node"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC"
+}
