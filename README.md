@@ -1,5 +1,7 @@
 # globals-docs
 
+[![build status](https://secure.travis-ci.org/documentationjs/globals-docs.png)](http://travis-ci.org/documentationjs/globals-docs)
+
 Documentation URIs for JavaScript globals.
 
 ## `docs`
