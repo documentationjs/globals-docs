@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "documentation links for all node and browser globals",
   "main": "index.js",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^4.0.0",
     "globals": "^6.4.1",
     "got": "^3.2.0",
     "queue-async": "^1.0.7"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "tape test.js"
   },
