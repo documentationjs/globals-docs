@@ -5,8 +5,8 @@
   "main": "index.js",
   "devDependencies": {
     "tape": "^4.0.0",
-    "globals": "^6.4.1",
-    "got": "^3.2.0",
+    "globals": "^9.17.0",
+    "got": "^6.7.1",
     "queue-async": "^1.0.7"
   },
   "scripts": {
