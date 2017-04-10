@@ -1,5 +1,7 @@
 # globals-docs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/documentationjs/globals-docs.svg)](https://greenkeeper.io/)
+
 [![build status](https://secure.travis-ci.org/documentationjs/globals-docs.png)](http://travis-ci.org/documentationjs/globals-docs)
 
 Documentation URIs for JavaScript globals.
