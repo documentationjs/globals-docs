@@ -1,3 +1,18 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="2.3.1"></a>
+## [2.3.1](https://github.com/documentationjs/globals-docs/compare/v2.3.0...v2.3.1) (2017-12-04)
+
+
+### Bug Fixes
+
+* Fix tests, remove unused dependency ([5b037d8](https://github.com/documentationjs/globals-docs/commit/5b037d8))
+* Remove /en-US/ from Mozilla docs ([#4](https://github.com/documentationjs/globals-docs/issues/4)) ([95ce765](https://github.com/documentationjs/globals-docs/commit/95ce765))
+
+
+
 # 2.3.0
 
 * feat(types): Add TypedArray TypedArray is not exactly an available global property or constructor
