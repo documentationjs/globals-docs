@@ -4,8 +4,7 @@
   "description": "documentation links for all node and browser globals",
   "main": "index.js",
   "devDependencies": {
-    "globals": "^6.4.1",
-    "got": "^3.2.0",
+    "got": "^8.0.1",
     "queue-async": "^1.0.7",
     "standard-version": "^4.2.0",
     "tape": "^4.0.0"
