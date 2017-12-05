@@ -290,7 +290,6 @@
     "SVGAnimationElement": "https://developer.mozilla.org/docs/Web/API/SVGAnimationElement",
     "SVGCircleElement": "https://developer.mozilla.org/docs/Web/API/SVGCircleElement",
     "SVGClipPathElement": "https://developer.mozilla.org/docs/Web/API/SVGClipPathElement",
-    "SVGColor": "https://hacks.mozilla.org/2017/10/containers-for-add-on-developers/",
     "SVGColorProfileElement": "https://developer.mozilla.org/docs/Web/JavaScript",
     "SVGColorProfileRule": "https://developer.mozilla.org/docs/Web/JavaScript",
     "SVGComponentTransferFunctionElement": "https://developer.mozilla.org/docs/Web/JavaScript",
