@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.4.0"></a>
+# [2.4.0](https://github.com/documentationjs/globals-docs/compare/v2.3.1...v2.4.0) (2017-12-05)
+
+
+### Features
+
+* Basic WebRTC types, improved build scripts ([84f7df0](https://github.com/documentationjs/globals-docs/commit/84f7df0)), closes [#5](https://github.com/documentationjs/globals-docs/issues/5)
+
+
+
 <a name="2.3.1"></a>
 ## [2.3.1](https://github.com/documentationjs/globals-docs/compare/v2.3.0...v2.3.1) (2017-12-04)
 
