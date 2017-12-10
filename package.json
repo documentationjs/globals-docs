@@ -5,9 +5,9 @@
   "main": "index.js",
   "devDependencies": {
     "got": "^8.0.1",
-    "queue-async": "^1.0.7",
+    "queue-async": "^1.2.1",
     "standard-version": "^4.2.0",
-    "tape": "^4.0.0"
+    "tape": "^4.8.0"
   },
   "scripts": {
     "test": "tape test.js",
