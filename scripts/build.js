@@ -1,7 +1,6 @@
-var source = require('../globals-docs.json'),
-    fs = require('fs'),
-    queue = require('queue-async'),
-    got = require('got');
+const source = require('../globals-docs.json');
+const fs = require('fs');
+const got = require('got');
 
 function mdc(obj, name) {
     return new Promise(function(resolve) {
