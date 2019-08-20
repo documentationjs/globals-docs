@@ -92,6 +92,8 @@
     "DataView": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/DataView",
     "Debug": "https://developer.mozilla.org/docs/Tools",
     "defaultStatus": "https://developer.mozilla.org/docs/Web/API/Window/defaultStatus",
+    "DeviceMotionEvent": "https://developer.mozilla.org/docs/Web/API/DeviceMotionEvent",
+    "DeviceOrientationEvent": "https://developer.mozilla.org/docs/Web/API/DeviceOrientationEvent",
     "devicePixelRatio": "https://developer.mozilla.org/docs/Web/API/Window/devicePixelRatio",
     "dispatchEvent": "https://developer.mozilla.org/docs/Web/API/EventTarget/dispatchEvent",
     "document": "https://developer.mozilla.org/docs/Web/JavaScript",
