@@ -1,6 +1,6 @@
 {
   "name": "globals-docs",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "documentation links for all node and browser globals",
   "main": "index.js",
   "devDependencies": {
