@@ -204,6 +204,7 @@
     "MutationObserver": "https://developer.mozilla.org/docs/Web/API/MutationObserver",
     "name": "https://developer.mozilla.org/",
     "navigator": "https://developer.mozilla.org/docs/Web/API/Navigator",
+    "NetworkInformation": "https://developer.mozilla.org/docs/Web/API/NetworkInformation",
     "Node": "https://developer.mozilla.org/docs/Web/API/Node/nextSibling",
     "NodeFilter": "https://developer.mozilla.org/docs/Web/API/NodeFilter",
     "NodeList": "https://developer.mozilla.org/docs/Web/API/NodeList",
