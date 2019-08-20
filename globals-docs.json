@@ -228,6 +228,8 @@
     "pageYOffset": "https://developer.mozilla.org/docs/Web/API/Window/scrollY",
     "parent": "https://developer.mozilla.org/docs/Web/HTML/Element/Input",
     "PopStateEvent": "https://developer.mozilla.org/docs/Web/Guide/API/DOM/Manipulating_the_browser_history",
+    "PositionError": "https://developer.mozilla.org/docs/Web/API/PositionError",
+    "PositionOptions": "https://developer.mozilla.org/docs/Web/API/PositionOptions",
     "postMessage": "https://developer.mozilla.org/docs/Web/API/Window/postMessage",
     "print": "https://developer.mozilla.org/docs/Printing",
     "ProgressEvent": "https://developer.mozilla.org/docs/Web/API/ProgressEvent",
