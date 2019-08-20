@@ -104,6 +104,8 @@
     "ErrorEvent": "https://developer.mozilla.org/docs/Web/API/ErrorEvent",
     "event": "https://developer.mozilla.org/docs/Web/API/Event",
     "Event": "https://developer.mozilla.org/docs/Web/API/Event",
+    "EventListener": "https://developer.mozilla.org/docs/Web/API/EventListener",
+    "EventTarget": "https://developer.mozilla.org/docs/Web/API/EventTarget",
     "FileReader": "https://developer.mozilla.org/docs/Web/API/FileReader",
     "fetch": "https://developer.mozilla.org/docs/Web/API/Fetch_API",
     "find": "https://developer.mozilla.org/docs/Web/API/Window/find",
